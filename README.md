@@ -7,7 +7,7 @@ Kubernetes 是一个完备的分布式系统支撑平台，具有完备的集群
 ### 本项目是搭建k8s服务器所需配置文件。
 
 ### （containerd部署）使用方法请扫描二维码：
-![输入图片说明](img/qr_code.png)
+![输入图片说明](https://raw.giteeusercontent.com/koji_docker/k8s/raw/master/img/qr_code.png)
 
 ### （docker部署）使用方法请扫描二维码：
 ![输入图片说明](https://foruda.gitee.com/images/1792210186522217671/cecebbdc_83449.png "httpsmp.weixin.qq.comsPzKkOj0K3z8UzRjjmap82w.png")
